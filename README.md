@@ -1,4 +1,4 @@
-# 📚 Mercado de Livros
+# 📚 node-personal-library
 
 Um sistema básico de gerenciamento de livros desenvolvido em **Node.js**.  
 Permite **adicionar, editar, excluir e listar livros**, utilizando **Express**, **Mongoose** e **Sequelize**, com documentação via **Swagger**.  
@@ -65,3 +65,4 @@ Após iniciar o servidor, acesse a documentação gerada pelo **Swagger**:
 
 Este projeto está licenciado sob a **MIT License**.  
 Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+
